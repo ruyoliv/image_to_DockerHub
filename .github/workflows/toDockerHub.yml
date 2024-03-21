@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true 
-        tags: ruyoliv/imagem_exemplo/newimage:latest
+        tags: ruyoliv/newimage:latest
