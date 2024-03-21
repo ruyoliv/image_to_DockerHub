@@ -1,4 +1,4 @@
-# imageToDockerHub
+## create a Docker image with Nginx based Webserver
 
 ## Download the image
 docker pull ruyoliv/pr:nginx
